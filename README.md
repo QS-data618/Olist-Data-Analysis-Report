@@ -53,7 +53,7 @@ The centerpiece of this analysis was the "Problem vs. Category Heatmap." This ch
 * **Data Visualization:** ggplot2
 * **Text Mining:** tidytext (Bottom-Up Tokenization, Stop Word Removal)
 * **Reporting:** R Markdown
-* **Data Preparation:** [View the project's SQL Scripts](/sql_scripts/) *(这是指向您 SQL 文件夹的链接)*
+* **Data Preparation:** [View the project's SQL Scripts](/sql_scripts/)
 
 ---
 
