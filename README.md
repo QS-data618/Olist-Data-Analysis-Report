@@ -57,5 +57,5 @@ The centerpiece of this analysis was the "Problem vs. Category Heatmap." This ch
 
 ---
 
-> ## [Click here for the full Detailed Analysis Report (report.html)](report.html)
+> ## [Click here for the full Detailed Analysis Report](https://QS-data618.github.io/Olist-Data-Analysis-Report/report.html)
 
