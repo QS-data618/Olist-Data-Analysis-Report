@@ -49,11 +49,11 @@ The centerpiece of this analysis was the "Problem vs. Category Heatmap." This ch
 
 ## Tools & Skills
 
+* **Data Preparation & Extraction:** SQL (View the project's [SQL Scripts](/sql_scripts/))
 * **Data Manipulation & Analysis:** R, dplyr, tidyverse
 * **Data Visualization:** ggplot2
-* **Text Mining:** tidytext (Bottom-Up Tokenization, Stop Word Removal)
+* **Text Mining:** tidytext (Bottom-Up Tokenization)
 * **Reporting:** R Markdown
-* **Data Preparation:** [View the project's SQL Scripts](/sql_scripts/)
 
 ---
 
